@@ -1,0 +1,21 @@
+1648290766300	geckodriver	INFO	Listening on 127.0.0.1:62217
+1648290769426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62218" "-no-remote" "-profile" "C:\\Users\\843E~1\\AppData\\Local\\Temp\\rust_mozprofileSS7P1v"
+1648290770450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\AppData\\Local\\Temp\\rust_mozprofileSS7P1v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62218/devtools/browser/8e6108bf-68e0-45d9-886f-ae850088a2f1
+1648290777505	Marionette	INFO	Listening on port 62223
+1648290777980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648290789886	Marionette	INFO	Stopped listening on port 62223
+1648290823750	geckodriver	INFO	Listening on 127.0.0.1:62272
+1648290826858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62273" "-no-remote" "-profile" "C:\\Users\\843E~1\\AppData\\Local\\Temp\\rust_mozprofile8f4nog"
+1648290827862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\AppData\\Local\\Temp\\rust_mozprofile8f4nog\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62273/devtools/browser/4bf2e030-0d13-4ac7-b189-fba7972f2910
+1648290835083	Marionette	INFO	Listening on port 62278
+1648290835413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648290847940	Marionette	INFO	Stopped listening on port 62278
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
